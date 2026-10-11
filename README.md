@@ -2,7 +2,7 @@
   src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" />
 
 <h1 align="center">Hi 👋, I'm Hamza Arif</h1>
-<h3 align="center">A passionate software developer from Morocco</h3>
+<h3 align="center">A passionate software engineering from Morocco</h3>
 <img align="right" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaarif2022&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaarif2022" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **React Laravel PHP Javascript Node js java typescript and devOps All Technologies of  developement**
+- 💬 Ask me about **React Laravel PHP Javascript Node js java ,spring , springboot typescript and devOps All Technologies of  developement**
 
 - 📫 How to reach me **arifhamza116@gmail.com**
 
