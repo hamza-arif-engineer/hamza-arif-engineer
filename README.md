@@ -4,10 +4,10 @@
 
 # Hi 👋, I'm Hamza Arif
 
-### A passionate Software Engineer from Morocco 🇲🇦
+### Senior Software Engineer from Morocco 🇲🇦
 
 <a href="https://github.com/hamzaarif2022">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Laravel+%7C+Spring+Boot;Building+SaaS+platforms;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;React+%7C+Node.js+%7C+Laravel+%7C+Spring+Boot;Building+SaaS+platforms;Always+learning+something+new" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on a **SaaS platform**
-- 🌱 Currently learning **Java** and the **Spring / Spring Boot** ecosystem
+- 🌱 Currently learning how to build **AI agents** and integrate them into my **SaaS solution**
 - 💬 Ask me about **React, Laravel, PHP, JavaScript, TypeScript, Node.js, Java, Spring Boot and DevOps**
 - ⚡ Fun fact: I'm a quick learner
 - 📫 Reach me at **[arifhamza116@gmail.com](mailto:arifhamza116@gmail.com)**
@@ -65,18 +65,25 @@
 
 ## 📌 Featured Projects
 
-<!-- Replace the placeholders below with your real repositories. -->
-
 <div align="center">
 
-<a href="https://github.com/hamzaarif2022/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaarif2022&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Project 1" />
+<a href="https://github.com/HamzaArif2022/School-management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaArif2022&repo=School-management&theme=tokyonight&hide_border=true" alt="School Management System (Laravel + React.js)" />
 </a>
-<a href="https://github.com/hamzaarif2022/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaarif2022&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2" />
+<a href="https://github.com/HamzaArif2022/Restaurant-Management-System-.NET-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaArif2022&repo=Restaurant-Management-System-.NET-&theme=tokyonight&hide_border=true" alt="Restaurant Management System (.NET)" />
+</a>
+<a href="https://github.com/HamzaArif2022/RestaurantManagementSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaArif2022&repo=RestaurantManagementSystem&theme=tokyonight&hide_border=true" alt="Restaurant Management System (Java)" />
 </a>
 
 </div>
+
+| Project | Stack | Description |
+|---|---|---|
+| 🏫 [School Management System](https://github.com/HamzaArif2022/School-management) | Laravel, React.js | Full-stack platform automating academic operations, with multi-role access, real-time analytics, interactive dashboards and communication tools. |
+| 🍽️ [Restaurant Management System (.NET)](https://github.com/HamzaArif2022/Restaurant-Management-System-.NET-) | .NET | Streamlines restaurant operations: orders, table reservations, menu customization, billing and staff management. |
+| 🍽️ [Restaurant Management System (Java)](https://github.com/HamzaArif2022/RestaurantManagementSystem) | Java | Java version of the restaurant system, with an interface for both staff and administrators. |
 
 ---
 
