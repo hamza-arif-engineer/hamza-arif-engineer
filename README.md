@@ -1,31 +1,96 @@
-<img  
-  src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" />
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Hamza Arif</h1>
-<h3 align="center">A passionate software engineering from Morocco</h3>
-<img align="right" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaarif2022&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaarif2022" /> </p>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer animation" width="320" />
 
-<p align="left"> <a href="https://twitter.com/hamzaarif___03" target="blank"><img src="https://img.shields.io/twitter/follow/hamzaarif___03?logo=twitter&style=for-the-badge" alt="hamzaarif___03" /></a> </p>
+# Hi 👋, I'm Hamza Arif
 
-- 🔭 I’m currently working on **Saas platform**
+### A passionate Software Engineer from Morocco 🇲🇦
 
-- 🌱 I’m currently learning **Java**
+<a href="https://github.com/hamzaarif2022">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Laravel+%7C+Spring+Boot;Building+SaaS+platforms;Always+learning+something+new" alt="Typing SVG" />
+</a>
 
-- 💬 Ask me about **React Laravel PHP Javascript Node js java ,spring , springboot typescript and devOps All Technologies of  developement**
+<br/>
 
-- 📫 How to reach me **arifhamza116@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=hamzaarif2022&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<a href="https://github.com/hamzaarif2022?tab=followers"><img src="https://img.shields.io/github/followers/hamzaarif2022?style=flat&logo=github&label=Followers" alt="GitHub followers" /></a>
+<a href="https://twitter.com/hamzaarif___03"><img src="https://img.shields.io/twitter/follow/hamzaarif___03?logo=twitter&style=flat" alt="Twitter follow" /></a>
 
-- ⚡ Fun fact **I think i'm quick learner**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hamzaarif___03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzaarif___03" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hamza-arif-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-arif2003" height="30" width="40" /></a>
-<a href="https://fb.com/hâmžâ běň ăříf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hâmžâ běň ăříf" height="30" width="40" /></a>
-<a href="https://instagram.com/__yeeessuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__yeeessuh" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
+- 🔭 Currently working on a **SaaS platform**
+- 🌱 Currently learning **Java** and the **Spring / Spring Boot** ecosystem
+- 💬 Ask me about **React, Laravel, PHP, JavaScript, TypeScript, Node.js, Java, Spring Boot and DevOps**
+- ⚡ Fun fact: I'm a quick learner
+- 📫 Reach me at **[arifhamza116@gmail.com](mailto:arifhamza116@gmail.com)**
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,php,js,ts,python,c,html,css&perline=8" alt="Languages" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,laravel,spring,tailwind,sass&perline=8" alt="Frameworks" />
+
+**Databases, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,nginx,azure,git,postman,rabbitmq,figma,ps&perline=10" alt="Tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hamzaarif2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaarif2022&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=hamzaarif2022&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<!-- Replace the placeholders below with your real repositories. -->
+
+<div align="center">
+
+<a href="https://github.com/hamzaarif2022/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaarif2022&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Project 1" />
+</a>
+<a href="https://github.com/hamzaarif2022/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaarif2022&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hamza-arif-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/hamzaarif___03" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://instagram.com/__yeeessuh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:arifhamza116@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+⭐ *Thanks for stopping by, feel free to star a repo or say hi!*
+
+</div>
