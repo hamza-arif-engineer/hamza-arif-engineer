@@ -13,7 +13,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=hamzaarif2022&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-<a href="https://github.com/hamzaarif2022?tab=followers"><img src="https://img.shields.io/github/followers/hamzaarif2022?style=flat&logo=github&label=Followers" alt="GitHub followers" /></a>
+
 <a href="https://twitter.com/hamzaarif___03"><img src="https://img.shields.io/twitter/follow/hamzaarif___03?logo=twitter&style=flat" alt="Twitter follow" /></a>
 
 </div>
